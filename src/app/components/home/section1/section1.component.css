@@ -1,0 +1,16 @@
+body {
+    font-family: Josefin Sans;
+}
+
+h2 {
+    font-size: 45px;
+    font: Garamond;
+    color: black;
+}
+
+.centered {
+    position: absolute;
+    top: 185%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

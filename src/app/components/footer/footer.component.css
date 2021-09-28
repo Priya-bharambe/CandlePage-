@@ -1,0 +1,58 @@
+    body {
+        font-family: Josefin Sans;
+    }
+    
+    .bg {
+        background-color: #f6f6ee;
+        width: 100%;
+        height: auto;
+    }
+    
+    a {
+        text-decoration: none;
+        color: black;
+    }
+    /* .container {
+    padding: 10px;
+} */
+    
+    input[type=text],
+    input[type=submit] {
+        padding: 8px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+    
+    input[type=checkbox] {
+        margin-top: 16px;
+    }
+    
+    input[type=submit] {
+        background-color: black;
+        color: white;
+        border: none;
+    }
+    
+    input[type=submit]:hover {
+        opacity: 0.8;
+    }
+    
+    h4 {
+        font: Garamond;
+        font-size: 20px;
+        color: #888;
+    }
+    
+    p {
+        color: #676767;
+    }
+    
+    .v-divider {
+        /* margin-left: 5px;
+        margin-right: 5px; */
+        width: 1px;
+        height: 200px;
+        border-left: 1px solid #868585;
+    }

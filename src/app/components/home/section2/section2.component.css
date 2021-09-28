@@ -1,0 +1,23 @@
+body {
+    font-family: Josefin Sans;
+}
+
+#project {
+    display: none;
+}
+
+h2 {
+    font-size: 45px;
+    font: Garamond;
+}
+
+h3 {
+    font-size: 35px;
+    font: Garamond;
+}
+
+.border {
+    border-radius: 50%;
+    border: 1px solid gray;
+    height: 150px;
+}

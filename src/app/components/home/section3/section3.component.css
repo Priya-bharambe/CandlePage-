@@ -1,0 +1,29 @@
+    body {
+        font-family: Josefin Sans;
+    }
+    
+    .img {
+        width: 100%;
+        height: 200px;
+    }
+    
+    h2 {
+        font: Garamond;
+        font-size: 45px;
+        text-align: center;
+        color: black;
+    }
+    
+    h4 {
+        font-size: 20px;
+        font: Garamond;
+        color: black;
+    }
+    
+    #featuredproducts {
+        display: none;
+    }
+    
+    .checked {
+        color: orange;
+    }
