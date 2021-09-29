@@ -11,10 +11,7 @@ export class SectionComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  showText(event: any){
-    console.log(event.target);
-    // event.target.style.opacity = 1;
-  }
+  
   
   
 
