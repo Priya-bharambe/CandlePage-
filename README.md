@@ -1,5 +1,4 @@
+
 # OUTPUT:
-
-![candlepage](https://user-images.githubusercontent.com/77727169/135282863-e5bf6ad7-39ec-4140-a38f-82969d880028.png)
-
+![CandlePageOutput](https://user-images.githubusercontent.com/77727169/137638347-a496c2d7-8dc8-4f21-9a30-35d09d3a39b6.png)
 
