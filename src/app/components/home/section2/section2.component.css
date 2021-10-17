@@ -17,11 +17,11 @@ h3 {
 }
 
 .border {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     line-height: 90px;
     border-radius: 50%;
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     border-style: 1px solid gray;
 }
